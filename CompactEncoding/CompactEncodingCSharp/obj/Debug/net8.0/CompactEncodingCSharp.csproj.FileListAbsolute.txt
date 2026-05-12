@@ -1,0 +1,15 @@
+/home/ernest/RiderProjects/FiLP-final-project/CompactEncodingCSharp/bin/Debug/net8.0/CompactEncodingCSharp
+/home/ernest/RiderProjects/FiLP-final-project/CompactEncodingCSharp/bin/Debug/net8.0/CompactEncodingCSharp.deps.json
+/home/ernest/RiderProjects/FiLP-final-project/CompactEncodingCSharp/bin/Debug/net8.0/CompactEncodingCSharp.runtimeconfig.json
+/home/ernest/RiderProjects/FiLP-final-project/CompactEncodingCSharp/bin/Debug/net8.0/CompactEncodingCSharp.dll
+/home/ernest/RiderProjects/FiLP-final-project/CompactEncodingCSharp/bin/Debug/net8.0/CompactEncodingCSharp.pdb
+/home/ernest/RiderProjects/FiLP-final-project/CompactEncodingCSharp/obj/Debug/net8.0/CompactEncodingCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/ernest/RiderProjects/FiLP-final-project/CompactEncodingCSharp/obj/Debug/net8.0/CompactEncodingCSharp.AssemblyInfoInputs.cache
+/home/ernest/RiderProjects/FiLP-final-project/CompactEncodingCSharp/obj/Debug/net8.0/CompactEncodingCSharp.AssemblyInfo.cs
+/home/ernest/RiderProjects/FiLP-final-project/CompactEncodingCSharp/obj/Debug/net8.0/CompactEncodingCSharp.csproj.CoreCompileInputs.cache
+/home/ernest/RiderProjects/FiLP-final-project/CompactEncodingCSharp/obj/Debug/net8.0/CompactEncodingCSharp.sourcelink.json
+/home/ernest/RiderProjects/FiLP-final-project/CompactEncodingCSharp/obj/Debug/net8.0/CompactEncodingCSharp.dll
+/home/ernest/RiderProjects/FiLP-final-project/CompactEncodingCSharp/obj/Debug/net8.0/refint/CompactEncodingCSharp.dll
+/home/ernest/RiderProjects/FiLP-final-project/CompactEncodingCSharp/obj/Debug/net8.0/CompactEncodingCSharp.pdb
+/home/ernest/RiderProjects/FiLP-final-project/CompactEncodingCSharp/obj/Debug/net8.0/CompactEncodingCSharp.genruntimeconfig.cache
+/home/ernest/RiderProjects/FiLP-final-project/CompactEncodingCSharp/obj/Debug/net8.0/ref/CompactEncodingCSharp.dll
